@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>https://ekar-leaderboard.github.io/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekar-leaderboard.github.io/project/paper/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekar-leaderboard.github.io/project/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekar-leaderboard.github.io/project/dataset/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekar-leaderboard.github.io/project/dataset-zh/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekar-leaderboard.github.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ekar-leaderboard.github.io/tags/</loc><changefreq>weekly</changefreq></url></urlset>

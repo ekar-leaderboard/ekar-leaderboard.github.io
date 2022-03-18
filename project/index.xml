@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | E-KAR Leaderboard</title>
+    <link>https://ekar-leaderboard.github.io/project/</link>
+      <atom:link href="https://ekar-leaderboard.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ekar-leaderboard.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://ekar-leaderboard.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>E-KAR Paper</title>
+      <link>https://ekar-leaderboard.github.io/project/paper/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ekar-leaderboard.github.io/project/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-KAR Dataset (En)</title>
+      <link>https://ekar-leaderboard.github.io/project/dataset/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ekar-leaderboard.github.io/project/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E-KAR Dataset (Zh)</title>
+      <link>https://ekar-leaderboard.github.io/project/dataset-zh/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://ekar-leaderboard.github.io/project/dataset-zh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
