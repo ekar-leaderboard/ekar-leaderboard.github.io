@@ -77,6 +77,9 @@
 
   
   
+    
+    <script src="/js/mathjax-config.js"></script>
+  
 
   
 
@@ -236,9 +239,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -1211,21 +1214,21 @@ More importantly, we design a <strong>free-text explanation scheme</strong> to e
 <p><strong>Answer</strong>: C</p>
 <p><strong>Explanation for Query</strong>:</p>
 <ul>
-<li>E_Q: Both &ldquo;teapot&rdquo; and &ldquo;teacup&rdquo; are containers for holding &ldquo;tea&rdquo;. After the &ldquo;tea&rdquo; is brewed in the &ldquo;teapot&rdquo;, it is transported into the &ldquo;teacup&rdquo;.</li>
+<li>$E_Q$: Both &ldquo;teapot&rdquo; and &ldquo;teacup&rdquo; are containers for holding &ldquo;tea&rdquo;. After the &ldquo;tea&rdquo; is brewed in the &ldquo;teapot&rdquo;, it is transported into the &ldquo;teacup&rdquo;.</li>
 </ul>
 <p><strong>Explanation for Candidate Answers</strong>:</p>
 <ul>
 <li>
-<p>E_A: &ldquo;Passengers&rdquo; do not need to be transported into &ldquo;taxi&rdquo; after taking a &ldquo;bus&rdquo;. &ldquo;Taxi&rdquo; and &ldquo;bus&rdquo; are different ways of transportation.</p>
+<p>$E_A$: &ldquo;Passengers&rdquo; do not need to be transported into &ldquo;taxi&rdquo; after taking a &ldquo;bus&rdquo;. &ldquo;Taxi&rdquo; and &ldquo;bus&rdquo; are different ways of transportation.</p>
 </li>
 <li>
-<p>E_B: The &ldquo;bookshelf&rdquo; is in the &ldquo;reading room&rdquo;.</p>
+<p>$E_B$: The &ldquo;bookshelf&rdquo; is in the &ldquo;reading room&rdquo;.</p>
 </li>
 <li>
-<p>E_C: Both &ldquo;school&rdquo; and &ldquo;enterprise&rdquo; are organizations. After &ldquo;talents&rdquo; are educated in &ldquo;school&rdquo;, they are transported into &ldquo;enterprise&rdquo;.</p>
+<p>$E_C$: Both &ldquo;school&rdquo; and &ldquo;enterprise&rdquo; are organizations. After &ldquo;talents&rdquo; are educated in &ldquo;school&rdquo;, they are transported into &ldquo;enterprise&rdquo;.</p>
 </li>
 <li>
-<p>E_D: After &ldquo;textbooks&rdquo; are printed in the &ldquo;printing factory&rdquo;, they are sold in a &ldquo;bookstore&rdquo;. But the terms order is inconsistent with the query.</p>
+<p>$E_D$: After &ldquo;textbooks&rdquo; are printed in the &ldquo;printing factory&rdquo;, they are sold in a &ldquo;bookstore&rdquo;. But the terms order is inconsistent with the query.</p>
 </li>
 </ul>
 </blockquote>
@@ -1243,7 +1246,7 @@ ekar_en = datasets.load_dataset('Jiangjie/ekar_chinese')
 </ul>
 <h3 id="e-kar-also-supports-two-task-modes">E-KAR also supports two task modes:</h3>
 <ul>
-<li><code>EASY mode</code>: where query explanation (E_Q) can be used as part of the input.</li>
+<li><code>EASY mode</code>: where query explanation ($E_Q$) can be used as part of the input.</li>
 <li><code>HARD mode</code>: no explanation is allowed as part of the input.</li>
 </ul>
 <h3 id="e-kar-supports-two-languages">E-KAR supports two languages:</h3>
